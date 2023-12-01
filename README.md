@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning react course from UDEMY
 - 💞️ I’m looking to collaborate on 
 - 📫 Contact with me => Email: khurshidbeknuriddinov@gmail.com
-                        t.me : [NuriddinovKhurshidbek](https://t.me/NuriddinovKhurshidbek)
+                        t.me : [NuriddinovKhurshidbek](url:https://t.me/NuriddinovKhurshidbek)
  
