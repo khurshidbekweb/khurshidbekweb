@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @khurshidbekweb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- I have a news cars 
-
-<!---
-khurshidbekweb/khurshidbekweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Khurshidbek Nuriddinov
+- 👀 I’m interested in writing code
+- 🌱 I’m currently learning react course from UDEMY
+- 💞️ I’m looking to collaborate on 
+- 📫 Contact with me => Email: khurshidbeknuriddinov@gmail.com
+                        t.me : NuriddinovKhurshidbek
+ 
