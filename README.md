@@ -40,8 +40,10 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=khurshidbekweb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khurshidbeknuriddinov@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurshidbekweb/)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/NuriddinovKhurshidbek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurshidbekweb/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khurshidbeknuriddinov@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/NuriddinovKhurshidbek) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088239637791&sk) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/xursh1dbek________)
 
 ---
