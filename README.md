@@ -29,8 +29,11 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khurshidbekweb&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khurshidbekweb&layout=compact&theme=radical)](https://github.com/khurshidbekweb)  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khurshidbekweb&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurshidbekweb&layout=compact&theme=radical" />
+</div>
 
 ## 🏆 Achievements  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khurshidbekweb&theme=radical)
