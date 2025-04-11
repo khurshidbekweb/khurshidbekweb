@@ -29,12 +29,12 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khurshidbekweb&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khurshidbekweb&layout=compact&theme=radical)](https://github.com/khurshidbekweb)  
 
 ## 🏆 Achievements  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MLO-OLAGUNJU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khurshidbekweb&theme=radical)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=khurshidbekweb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## 📫 Connect With Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khurshidbeknuriddinov@gmail.com)  
