@@ -13,15 +13,15 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 
 
 ## 🛠️ Tech Stack & Tools  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)  
-[TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)  
-[React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)  
-[Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript) 
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react) 
+![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js) 
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js)  
-![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker)  
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker) 
 ![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes)  
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github)  
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github)
 
 ## 🌱 Currently Learning  
 - **React Native** 📱 → Mastering mobile development  
