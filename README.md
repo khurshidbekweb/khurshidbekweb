@@ -30,7 +30,7 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 
 ## 📈 GitHub Stats  
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khurshidbekweb&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurshidbekweb&layout=compact&theme=radical" />
 </div>
