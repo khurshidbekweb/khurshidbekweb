@@ -9,8 +9,6 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 - 🔹 **UI/UX Optimization:** Responsive, accessible, and intuitive designs  
 - 🔹 **Continuous Learning:** Exploring React Native, Mapbox, and backend technologies  
 
-🚀 Currently working at **[Result Agency](https://result-me.uz/en)** and aiming to improve my English skills to collaborate with international teams!
-
 
 ## 🛠️ Tech Stack & Tools  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript) 
