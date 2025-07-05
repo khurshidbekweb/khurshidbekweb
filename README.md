@@ -15,16 +15,18 @@ I'm a Frontend Developer with 2 years of experience, passionate about building m
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript) 
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react) 
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js) 
+![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/State-Zustand-informational?style=flat&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/Data-Fetching--React_Query-informational?style=flat&logo=react-query&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/UI-shadcn/ui-informational?style=flat&logo=radix-ui&logoColor=white)
+![Formik](https://img.shields.io/badge/Forms-Formik-informational?style=flat&logo=formik&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/Table-TanStack-informational?style=flat&logo=react-table&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js)  
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker) 
 ![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes)  
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github)
-
-## 🌱 Currently Learning  
-- **React Native** 📱 → Mastering mobile development  
-- **Advanced Cloud & DevOps** ☁️ → Deepening AWS, Docker & Kubernetes skills  
-
 
 ## 📈 GitHub Stats  
 
