@@ -1,7 +1,7 @@
-# 🚀 Welcome! I'm Khurshidbek Nuriddinov 👋  
-
 ## 💡 About Me
-I'm a Frontend Developer with 2 years of experience, passionate about building modern, high-performance web applications. I specialize in React, Next.js, TypeScript, and Tailwind CSS, creating fast, user-friendly, and scalable solutions.
+Hi, I'm Khurshidbek Nuriddinov — a passionate Frontend Developer with 2 years of experience building responsive and user-friendly web applications. I specialize in modern JavaScript frameworks like React.js and Vue.js, and I enjoy creating clean, efficient interfaces that provide a great user experience. Currently, I’m working at Result Agency, where I contribute to real-world projects and continue growing as a developer.
+Outside of programming, I actively study English to improve my communication skills and expand my opportunities in the global tech industry. I’m also dedicated to staying healthy and energetic through regular sports and physical activity.Outside of programming, I actively study English to improve my communication skills and expand my opportunities in the global tech industry. I’m also dedicated to staying healthy and energetic through regular sports and physical activity.
+Let’s build something meaningful together!Let’s build something meaningful together!
 
 
 ## 🛠️ Tech Stack & Tools  
