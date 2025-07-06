@@ -3,12 +3,6 @@
 ## 💡 About Me
 I'm a Frontend Developer with 2 years of experience, passionate about building modern, high-performance web applications. I specialize in React, Next.js, TypeScript, and Tailwind CSS, creating fast, user-friendly, and scalable solutions.
 
-💡 **What I Do:**
-- 🔹 **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS, Shadcn UI  
-- 🔹 **State Management & API Handling:** TanStack Query, Redux Toolkit, Axios  
-- 🔹 **UI/UX Optimization:** Responsive, accessible, and intuitive designs  
-- 🔹 **Continuous Learning:** Exploring React Native, Mapbox, and backend technologies  
-
 
 ## 🛠️ Tech Stack & Tools  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript) 
