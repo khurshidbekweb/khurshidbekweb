@@ -4,6 +4,7 @@ Outside of programming, I actively study English to improve my communication ski
 Let’s build something meaningful together!Let’s build something meaningful together!
 
 
+
 ## 🛠️ Tech Stack & Tools  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript) 
@@ -23,7 +24,6 @@ Let’s build something meaningful together!Let’s build something meaningful t
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github)
 
 ## 📈 GitHub Stats  
-
 <div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khurshidbekweb&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurshidbekweb&layout=compact&theme=radical" />
